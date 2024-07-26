@@ -1,6 +1,6 @@
 AMP:
-    remote_write_url: "https://aps-workspaces.us-east-2.amazonaws.com/workspaces/{workspace}/api/v1/remote_write"
-    region: REGION
+    remote_write_url: "https://aps-workspaces.us-east-2.amazonaws.com/workspaces/ws-854baacd-1755-4664-a3e2-01b818b9f711/api/v1/remote_write"
+    region: us-east-2
 
 Kinesis_Firehose:
     delivery_stream_name: Kinesis Firehose Stream
